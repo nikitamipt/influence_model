@@ -14,9 +14,6 @@
 
 Примеры результатов работы модели по изменению мнений участников сети об информации
 
-<p align="middle">
-  <img src="/graph1.png" align="middle" width="400"/>
-  <img src="/graph2.png" align="middle" width="400"/> 
-</p>
-
+<img src="graph1.png" width="700"/>
+<img src="graph2.png" width="700"/> 
 Детальное описание проекта и теоретическая справка находится в .ipynb файле.
